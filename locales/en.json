@@ -1,0 +1,17 @@
+{   
+    "target_title": "City Hall",
+
+    "grant_title": "Grant License",
+    "revoke_title": "Revoke License",
+    
+    "grand_help": "Grant a license to a user",
+    "revoke_help": "Revoke a license from a user",
+
+    "grantall": "You have been granted all licenses",
+    "revokeall": "You have been revoked all licenses",
+
+    "job_info": "You have been employed as: %s",
+    "job_info_fail": "You already been employed as: %s",
+
+    "already_item": "Currently carrying: %s"
+}
