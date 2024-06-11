@@ -9,4 +9,4 @@
 
 ## 🛠️ READ ME
 
-### **This is a spawn menu that works with QBCore the backend code needs improvements and changes this resource is writen in ReactJS and includes the UI and NO SUPPORT will be provided!**
+### **This is a menu that works with QBCore the backend code needs improvements and changes this resource is writen in ReactJS and includes the UI and NO SUPPORT will be provided!**
